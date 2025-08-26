@@ -1,4 +1,4 @@
-<img src="https://github.com/mokkapps/mokkapps/blob/master/header.png" alt="Yasmine Walid GitHub README header image">
+
 
 <p>
   <a href="https://wa.me/201030776558"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a>
